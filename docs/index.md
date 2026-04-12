@@ -7,22 +7,56 @@
 
 Esta documentação organiza os principais artefatos de engenharia do projeto SGES, com foco em clareza, rastreabilidade e apresentação acadêmica.
 
-<div class="sges-grid">
-	<div class="sges-card">
+<div>
+	<div>
 		<h3>Escopo do Produto</h3>
 		<p>Contexto do cliente, problema central e oportunidade de impacto social.</p>
 	</div>
-	<div class="sges-card">
+	<div>
 		<h3>Estratégia Técnica</h3>
 		<p>Abordagem de engenharia, priorização de backlog e decisões de desenvolvimento.</p>
 	</div>
-	<div class="sges-card">
+	<div>
 		<h3>Planejamento</h3>
 		<p>Entregas, cronograma e interação com stakeholders ao longo dos sprints.</p>
 	</div>
-	<div class="sges-card">
+	<div>
 		<h3>Rigor de Qualidade</h3>
 		<p>Critérios de validação, critérios de pronto e acompanhamento contínuo.</p>
+	</div>
+</div>
+
+## Integrantes do Projeto
+<div class = "sges-grid">
+	<div class="sges-card">
+		<img src="images/mateiki.png">
+		<p>Matheus Eiki</p>
+		<a href="https://github.com/mateiki">@mateiki</a>
+	</div>
+		<div class="sges-card">
+		<img src="images/gabemagioli.jpg">
+		<p>Gabriel Magioli</p>
+		<a href="https://github.com/gabemagioli">@gabemagioli</a>
+	</div>
+		<div class="sges-card">
+		<img src="images/bielg7.jpg">
+		<p>Gabriel Pereira</p>
+		<a href="https://github.com/bielg7">@bielg7</a>
+	</div>
+		<div class="sges-card">
+		<img src="images/GuilhermeDavila.jpg">
+		<p>Guilherme Davila</p>
+		<a href="https://github.com/GuilhermeDavila">@GuilhermeDavila</a>
+	</div>
+		<div class="sges-card">
+		<img src="images/luccameds.jpg">
+		<p>Luca Medeiros</p>
+		<a href="https://github.com/luccameds">@luccameds</a>
+	</div>
+		<div class="sges-card">
+		<img src="images/Vini-Araujoo.jpg">
+		<p>Vinicius Araujo</p>
+		<a href="https://github.com/Vini-Araujoo">@Vini-Araujoo</a>
 	</div>
 </div>
 
